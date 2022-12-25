@@ -1,0 +1,45 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - NoGoGa</title>
+	<link type="text/css" asp asp-append-version="true" rel="stylesheet" href="~/css/site.css">
+	<script src="~/js/site.js" asp asp-append-version="true" async></script>
+	<script src="~/lib/jquery/dist/jquery.min.js" asp asp-append-version="true" async></script>
+</head>
+<body>
+	<header>
+		<nav class="navbar">
+			<div>
+				<a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Домой</a>
+				<a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Политика</a>
+			</div>
+			@if (@User.Identity.IsAuthenticated == false)
+			{
+				<div>
+					<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Login">Вход</a>
+					<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Registration">Регистрация</a>
+				</div>
+			}
+			else
+			{	
+				<div>
+					<h3 style="display:inline-block">Привет, @User.Claims.Last().Value!</h3>
+					<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Logout">Выход</a>
+				</div>
+			}
+		</nav>
+	</header>
+	@RenderBody()
+	<footer class="border-top footer text-muted">
+		<div class="container">
+			&copy; рэд хот чили димка 2022 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Политика</a>
+		</div>
+	</footer>
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+	@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

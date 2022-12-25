@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #9ba6aa;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #9ba6aa;
+    padding: 20px 0;
+    height: 60px;
+    display: flex;    
+    flex-direction: row;
+    border-bottom: 1px solid;
+}
+
+.navbar {
+    min-width:100%;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.navbar a {
+    padding: 10px;
+    padding: 0 0 2px;
+    margin: 0 10px 0 10px;
+}
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+    color: #445162;
+    font-size: 12px;
+    font-family: "Arial MT";
+    line-height: 24px;
+    background-color: #9ba6aa;
+}
+
+.myContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+    background-color: #9ba6aa;
+}
+
+.container {
+    background-color: #9ba6aa;
+}
+
+.gameField {
+    display: grid;
+    grid-template-columns: repeat(8, 40px);
+    margin: 0 auto;
+    box-shadow: 4px 3px .4em red, -0.4em -5px .4em olive;
+    padding: 40px;
+    margin-top: 20px;
+}
+
+.btn {
+    height: 40px;
+    font-size: 24px;
+    color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: thin inset;
+}
+
+    .btn:disabled {
+        background-color: #a0aaad;
+    }
+
+.newGameBtn {
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+    background-image: url('../Images/neutralFace.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.gameMenu {
+    margin: 0 auto;
+    display: flex;
+}
+
+.minesCount {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    font: 45px bold;
+    color: red;
+    text-align: center;
+}

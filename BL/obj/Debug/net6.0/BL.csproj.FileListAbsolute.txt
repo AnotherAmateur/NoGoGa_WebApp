@@ -1,0 +1,30 @@
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\bin\Debug\net6.0\BL.deps.json
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\bin\Debug\net6.0\BL.dll
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\bin\Debug\net6.0\BL.pdb
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\bin\Debug\net6.0\DL.dll
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\bin\Debug\net6.0\DL.pdb
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\obj\Debug\net6.0\BL.dll
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\obj\Debug\net6.0\refint\BL.dll
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\obj\Debug\net6.0\BL.pdb
+C:\Users\dmitr\OneDrive\Desktop\NoGoGa\BL\obj\Debug\net6.0\ref\BL.dll
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\bin\Debug\net6.0\BL.deps.json
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\bin\Debug\net6.0\BL.dll
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\bin\Debug\net6.0\BL.pdb
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\bin\Debug\net6.0\DL.dll
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\bin\Debug\net6.0\DL.pdb
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\obj\Debug\net6.0\BL.dll
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\obj\Debug\net6.0\refint\BL.dll
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\obj\Debug\net6.0\BL.pdb
+D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\BL\obj\Debug\net6.0\ref\BL.dll
