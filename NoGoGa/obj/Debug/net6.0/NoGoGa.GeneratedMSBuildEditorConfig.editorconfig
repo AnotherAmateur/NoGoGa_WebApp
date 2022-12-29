@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NoGoGa
 build_property.RootNamespace = NoGoGa
-build_property.ProjectDir = D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\NoGoGa\
+build_property.ProjectDir = D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\NoGoGa\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\NoGoGa
+build_property.MSBuildProjectDirectory = D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\NoGoGa
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Uni/5 semester/Технологии программирования/MineSweeperWebApp_Github/NoGoGa/NoGoGa/Views/Access/Login.cshtml]
+[D:/Uni/5 semester/Технологии программирования/NoGoGa/NoGoGa_WebApp/NoGoGa/Views/Access/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Uni/5 semester/Технологии программирования/MineSweeperWebApp_Github/NoGoGa/NoGoGa/Views/Access/Registration.cshtml]
+[D:/Uni/5 semester/Технологии программирования/NoGoGa/NoGoGa_WebApp/NoGoGa/Views/Access/Registration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXFJlZ2lzdHJhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Uni/5 semester/Технологии программирования/MineSweeperWebApp_Github/NoGoGa/NoGoGa/Views/Home/Index.cshtml]
+[D:/Uni/5 semester/Технологии программирования/NoGoGa/NoGoGa_WebApp/NoGoGa/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Uni/5 semester/Технологии программирования/MineSweeperWebApp_Github/NoGoGa/NoGoGa/Views/Home/Login.cshtml]
+[D:/Uni/5 semester/Технологии программирования/NoGoGa/NoGoGa_WebApp/NoGoGa/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Uni/5 semester/Технологии программирования/MineSweeperWebApp_Github/NoGoGa/NoGoGa/Views/Home/Privacy.cshtml]
+[D:/Uni/5 semester/Технологии программирования/NoGoGa/NoGoGa_WebApp/NoGoGa/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Uni/5 semester/Технологии программирования/MineSweeperWebApp_Github/NoGoGa/NoGoGa/Views/Shared/Error.cshtml]
+[D:/Uni/5 semester/Технологии программирования/NoGoGa/NoGoGa_WebApp/NoGoGa/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Uni/5 semester/Технологии программирования/MineSweeperWebApp_Github/NoGoGa/NoGoGa/Views/Shared/_LoginPartial.cshtml]
+[D:/Uni/5 semester/Технологии программирования/NoGoGa/NoGoGa_WebApp/NoGoGa/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Uni/5 semester/Технологии программирования/MineSweeperWebApp_Github/NoGoGa/NoGoGa/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Uni/5 semester/Технологии программирования/NoGoGa/NoGoGa_WebApp/NoGoGa/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Uni/5 semester/Технологии программирования/MineSweeperWebApp_Github/NoGoGa/NoGoGa/Views/_ViewImports.cshtml]
+[D:/Uni/5 semester/Технологии программирования/NoGoGa/NoGoGa_WebApp/NoGoGa/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Uni/5 semester/Технологии программирования/MineSweeperWebApp_Github/NoGoGa/NoGoGa/Views/_ViewStart.cshtml]
+[D:/Uni/5 semester/Технологии программирования/NoGoGa/NoGoGa_WebApp/NoGoGa/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Uni/5 semester/Технологии программирования/MineSweeperWebApp_Github/NoGoGa/NoGoGa/Views/Shared/_Layout.cshtml]
+[D:/Uni/5 semester/Технологии программирования/NoGoGa/NoGoGa_WebApp/NoGoGa/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jgqm5ksxqn

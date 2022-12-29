@@ -26,3 +26,17 @@ D:\Uni\5 semester\Технологии программирования\MineSwee
 D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\DL\obj\Debug\net6.0\DL.pdb
 D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\DL\obj\Debug\net6.0\DL.genruntimeconfig.cache
 D:\Uni\5 semester\Технологии программирования\MineSweeperWebApp_Github\NoGoGa\DL\obj\Debug\net6.0\ref\DL.dll
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\bin\Debug\net6.0\DL.deps.json
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\bin\Debug\net6.0\DL.runtimeconfig.json
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\bin\Debug\net6.0\DL.dll
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\bin\Debug\net6.0\DL.pdb
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\obj\Debug\net6.0\DL.csproj.AssemblyReference.cache
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\obj\Debug\net6.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\obj\Debug\net6.0\DL.AssemblyInfoInputs.cache
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\obj\Debug\net6.0\DL.AssemblyInfo.cs
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\obj\Debug\net6.0\DL.csproj.CoreCompileInputs.cache
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\obj\Debug\net6.0\DL.dll
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\obj\Debug\net6.0\refint\DL.dll
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\obj\Debug\net6.0\DL.pdb
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\obj\Debug\net6.0\DL.genruntimeconfig.cache
+D:\Uni\5 semester\Технологии программирования\NoGoGa\NoGoGa_WebApp\DL\obj\Debug\net6.0\ref\DL.dll

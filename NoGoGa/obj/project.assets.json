@@ -10503,11 +10503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Uni\\5 semester\\Технологии программирования\\MineSweeperWebApp_Github\\NoGoGa\\NoGoGa\\NoGoGa.csproj",
+      "projectUniqueName": "D:\\Uni\\5 semester\\Технологии программирования\\NoGoGa\\NoGoGa_WebApp\\NoGoGa\\NoGoGa.csproj",
       "projectName": "NoGoGa",
-      "projectPath": "D:\\Uni\\5 semester\\Технологии программирования\\MineSweeperWebApp_Github\\NoGoGa\\NoGoGa\\NoGoGa.csproj",
+      "projectPath": "D:\\Uni\\5 semester\\Технологии программирования\\NoGoGa\\NoGoGa_WebApp\\NoGoGa\\NoGoGa.csproj",
       "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-      "outputPath": "D:\\Uni\\5 semester\\Технологии программирования\\MineSweeperWebApp_Github\\NoGoGa\\NoGoGa\\obj\\",
+      "outputPath": "D:\\Uni\\5 semester\\Технологии программирования\\NoGoGa\\NoGoGa_WebApp\\NoGoGa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10524,11 +10524,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Uni\\5 semester\\Технологии программирования\\MineSweeperWebApp_Github\\NoGoGa\\BL\\BL.csproj": {
-              "projectPath": "D:\\Uni\\5 semester\\Технологии программирования\\MineSweeperWebApp_Github\\NoGoGa\\BL\\BL.csproj"
+            "D:\\Uni\\5 semester\\Технологии программирования\\NoGoGa\\NoGoGa_WebApp\\BL\\BL.csproj": {
+              "projectPath": "D:\\Uni\\5 semester\\Технологии программирования\\NoGoGa\\NoGoGa_WebApp\\BL\\BL.csproj"
             },
-            "D:\\Uni\\5 semester\\Технологии программирования\\MineSweeperWebApp_Github\\NoGoGa\\DL\\DL.csproj": {
-              "projectPath": "D:\\Uni\\5 semester\\Технологии программирования\\MineSweeperWebApp_Github\\NoGoGa\\DL\\DL.csproj"
+            "D:\\Uni\\5 semester\\Технологии программирования\\NoGoGa\\NoGoGa_WebApp\\DL\\DL.csproj": {
+              "projectPath": "D:\\Uni\\5 semester\\Технологии программирования\\NoGoGa\\NoGoGa_WebApp\\DL\\DL.csproj"
             }
           }
         }

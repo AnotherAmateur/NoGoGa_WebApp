@@ -28,7 +28,6 @@ function startGame(width, height, minesCount) {
     })
 
     // левый клик на ячейку поля
-    let restart = false;
     gameField.addEventListener('click', (event) => {
         if (event.target.tagName != 'BUTTON') {
             return;
@@ -38,10 +37,8 @@ function startGame(width, height, minesCount) {
         let rowIndex = Math.floor(index / width);
         let columnIndex = index % width;
 
-        if (index >= 0) {
-            if (OpenCells(rowIndex, columnIndex)) {
-                gameEndDeclaration();
-            }
+        if (OpenCells(rowIndex, columnIndex)) {
+            gameEndDeclaration();
         }
     })
 
@@ -135,8 +132,6 @@ function startGame(width, height, minesCount) {
             cellsBtns[i].textContent = fieldCells[i];
             cellsBtns[i].style.backgroundImage = '';
         }
-
-        console.log(isWinner);
 
         $.ajax({
             type: "POST",

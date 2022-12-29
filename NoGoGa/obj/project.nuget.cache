@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tFE6IMafqzUpLdBP8gfrQS7IKgZjGuKHKxT7HhSMoFYKqJsv3is4meVUzllni6aR19ANE0I3diV4snjgUtNJfg==",
+  "dgSpecHash": "4BERVS+qFK7xcK2KTTNiKpEiIbN0FKJlNSNdC/q3ZqD3y1TUQZLW+d8SGIobVtLev/seD8kGagmowusII1iWfA==",
   "success": true,
-  "projectFilePath": "D:\\Uni\\5 semester\\Технологии программирования\\MineSweeperWebApp_Github\\NoGoGa\\NoGoGa\\NoGoGa.csproj",
+  "projectFilePath": "D:\\Uni\\5 semester\\Технологии программирования\\NoGoGa\\NoGoGa_WebApp\\NoGoGa\\NoGoGa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmitr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dmitr\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I8OIRnc/LVb1YQT1sWj3OsNVJXnHE6TFF29iz7k9XaNg/e7biBS6sm3/+pANvIVsI4uQi+Z2vMvg1hnY2bAFwQ==",
+  "dgSpecHash": "jKu8e/HJSjvdLz/RUvUUak1RkQw7iospnBgEq7S6my7Hp+DLhricpdjF2zsIjAbuTHclNFT6g1Sr1/+UoEKjXQ==",
   "success": true,
-  "projectFilePath": "D:\\Uni\\5 semester\\Технологии программирования\\MineSweeperWebApp_Github\\NoGoGa\\DL\\DL.csproj",
+  "projectFilePath": "D:\\Uni\\5 semester\\Технологии программирования\\NoGoGa\\NoGoGa_WebApp\\DL\\DL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmitr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

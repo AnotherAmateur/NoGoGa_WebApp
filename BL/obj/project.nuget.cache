@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TfjwT0h+1ynixZYhJr19pr7mYfHan5PWouZCQSnse3Aiax9fQ9haO9j7U7V29aAHILLUOwucS/on/yYAp/J7nQ==",
+  "dgSpecHash": "p7qjU3ZU2UBHIj1sE+/RvBzpDTHrpkLCw19cXGR7QTXQLW5UbPNMJ9rntApahNLZWSPUKqnb3/o+MvWuSsPaqA==",
   "success": true,
-  "projectFilePath": "D:\\Uni\\5 semester\\Технологии программирования\\MineSweeperWebApp_Github\\NoGoGa\\BL\\BL.csproj",
+  "projectFilePath": "D:\\Uni\\5 semester\\Технологии программирования\\NoGoGa\\NoGoGa_WebApp\\BL\\BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

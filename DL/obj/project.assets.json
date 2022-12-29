@@ -2019,11 +2019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Uni\\5 semester\\Технологии программирования\\MineSweeperWebApp_Github\\NoGoGa\\DL\\DL.csproj",
+      "projectUniqueName": "D:\\Uni\\5 semester\\Технологии программирования\\NoGoGa\\NoGoGa_WebApp\\DL\\DL.csproj",
       "projectName": "DL",
-      "projectPath": "D:\\Uni\\5 semester\\Технологии программирования\\MineSweeperWebApp_Github\\NoGoGa\\DL\\DL.csproj",
+      "projectPath": "D:\\Uni\\5 semester\\Технологии программирования\\NoGoGa\\NoGoGa_WebApp\\DL\\DL.csproj",
       "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-      "outputPath": "D:\\Uni\\5 semester\\Технологии программирования\\MineSweeperWebApp_Github\\NoGoGa\\DL\\obj\\",
+      "outputPath": "D:\\Uni\\5 semester\\Технологии программирования\\NoGoGa\\NoGoGa_WebApp\\DL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
